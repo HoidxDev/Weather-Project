@@ -8,7 +8,13 @@ Please share your comments and reviews,  welcomed!
 
 # Tools and Packages 
 
-This app was built using [TailwindCSS](https://tailwindcss.com/)ReactJS](https://reactjs.org/)
+This app was built with 
+* [TailwindCSS](https://tailwindcss.com/) 
+* [ReactJS](https://reactjs.org/)
+* [GSAP](https://greensock.com/gsap/) 
+* [OpenWeatherAPI](https://openweathermap.org/)
+* [Custom Search API](https://developers.google.com/custom-search/v1/overview)
+* [Search Engine](https://programmablesearchengine.google.com/cse/all)
 
 # Installation
 
@@ -32,3 +38,4 @@ npm run build
 * [Discord](https://discordapp.com/users/302694721497858058)
 * [Fiverr](https://www.fiverr.com/hoidxdev)
 * [Stackoverflow](https://stackoverflow.com/users/18168274/hoidx)
+* [Upwork](https://www.upwork.com/freelancers/~014b5e51947bd7a966)
