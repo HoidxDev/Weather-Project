@@ -3,8 +3,7 @@ Coded Weather Project with ReactJS, TailwindCSS and GSAP in 1 day. I have made s
 Simply, you can enter your city and see how is the weather like. In the mean time, one of your city picture displaying on right side.  I will improve this simple project later.
 Please share your comments and reviews,  welcomed!
 
-![todoList](https://user-images.githubusercontent.com/99079485/159143894-cc124ffa-6663-40c6-bb4a-fe4a2a781bd8.png)
-![Todolook](https://user-images.githubusercontent.com/99079485/159143896-c7fc05be-e3d6-421a-a6bd-1782c2cf650d.png)
+![weatherap](https://user-images.githubusercontent.com/99079485/160654018-a177e6e2-a080-4900-9f16-837b1f285ef7.png)
 
 # Tools and Packages 
 
