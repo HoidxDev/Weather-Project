@@ -5,6 +5,9 @@ Please share your comments and reviews,  welcomed!
 
 ![weatherap](https://user-images.githubusercontent.com/99079485/160654018-a177e6e2-a080-4900-9f16-837b1f285ef7.png)
 
+![weathergif](https://user-images.githubusercontent.com/99079485/160656844-dc637e70-5e5d-4b68-b15f-f785668c6ecd.gif)
+
+
 # Tools and Packages 
 
 This app was built with 
