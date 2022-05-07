@@ -7,9 +7,7 @@ https://weatherhoidx.netlify.app/
 
 ![weatherhoidx](https://user-images.githubusercontent.com/99079485/167237534-f16a3ed3-f1ec-4fca-bbd3-d4e305d20f62.png)
 
-
-![weathergif]()
-
+![weather](https://user-images.githubusercontent.com/99079485/167238311-d50fc053-292a-41b2-9622-6676423a3174.gif)
 
 # Tools and Packages 
 
