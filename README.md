@@ -3,9 +3,8 @@ Coded Weather Project with ReactJS, TailwindCSS and GSAP in 1 day. I have made s
 Simply, you can enter your city and see how is the weather like. In the mean time, one of your city picture displaying on right side.  I will improve this simple project later.
 Please share your comments and reviews,  welcomed!
 
-[Weather](weatherhoidx.netlify.app)
+![weatherhoidx](https://user-images.githubusercontent.com/99079485/167237534-f16a3ed3-f1ec-4fca-bbd3-d4e305d20f62.png)
 
-![weatherap]()
 
 ![weathergif]()
 
