@@ -9,6 +9,9 @@ https://weatherhoidx.netlify.app/
 
 ![weather](https://user-images.githubusercontent.com/99079485/167238311-d50fc053-292a-41b2-9622-6676423a3174.gif)
 
+![weathergif](https://user-images.githubusercontent.com/99079485/167238358-80c8633a-37c5-4166-9784-b67a874e07e0.gif)
+
+
 # Tools and Packages 
 
 This app was built with 
